@@ -1,0 +1,7 @@
+﻿  AD_Problem1.cpp
+c:\users\a17arven\source\repos\ad_problem1\ad_problem1\ad_problem1.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\a17arven\source\repos\ad_problem1\ad_problem1\ad_problem1.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\a17arven\source\repos\ad_problem1\ad_problem1\ad_problem1.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\a17arven\source\repos\ad_problem1\ad_problem1\ad_problem1.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\a17arven\source\repos\ad_problem1\ad_problem1\ad_problem1.cpp(117): warning C4018: '<': signed/unsigned mismatch
+  AD_Problem1.vcxproj -> c:\users\a17arven\source\repos\AD_Problem1\Debug\AD_Problem1.exe
