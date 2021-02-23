@@ -1,2 +1,2 @@
-# C-Algorithms-and-Datastructure-problems
+# C++-Algorithms-and-Datastructure-problems
 A pair of problems
